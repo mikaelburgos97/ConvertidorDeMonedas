@@ -20,7 +20,7 @@ Este proyecto es un Conversor de Monedas implementado en Java que utiliza la API
 1. Clone este repositorio:
    ```
    git clone https://github.com/mikaelburgos97/ConvertidorDeMonedas/
-   cd conversor-monedas
+   cd ConvertidorDeMonedas
    ```
 
 2. Si no está usando Maven, descargue el JAR de Gson y añádalo a su classpath.
