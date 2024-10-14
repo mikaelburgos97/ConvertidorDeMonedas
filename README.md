@@ -22,17 +22,9 @@ Este proyecto es un Conversor de Monedas implementado en Java que utiliza la API
    git clone https://github.com/tuusuario/conversor-monedas.git
    cd conversor-monedas
    ```
-
-2. Si está usando Maven, asegúrese de que el archivo `pom.xml` incluya la dependencia de Gson:
-   ```xml
-   <dependency>
-       <groupId>com.google.code.gson</groupId>
-       <artifactId>gson</artifactId>
-       <version>2.8.9</version>
-   </dependency>
    ```
 
-3. Si no está usando Maven, descargue el JAR de Gson y añádalo a su classpath.
+2. Si no está usando Maven, descargue el JAR de Gson y añádalo a su classpath.
 
 ## Uso
 
